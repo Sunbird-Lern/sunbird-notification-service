@@ -109,7 +109,7 @@
         <dependency>
             <artifactId>netty-common</artifactId>
             <groupId>io.netty</groupId>
-            <version>4.1.77.Final</version>
+            <version>4.1.115.Final</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.play</groupId>
